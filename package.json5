@@ -1,0 +1,8 @@
+{
+  "name":"generator-pages-controllers-or-services",
+  "dependencies": {
+    "mobx": "*",
+    "angular": "1.4",
+    "momentjs": "*"
+  }
+}
