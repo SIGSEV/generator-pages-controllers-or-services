@@ -1,5 +1,5 @@
 {
-  "name":"generator-pages-controllers-or-services",
+  "name": "generator-pages-controllers-or-services",
   "dependencies": {
     "mobx": "*",
     "angular": "1.4",
