@@ -1,8 +1,14 @@
 {
   "name":"generator-pages-controllers-or-services",
+>>>>>>>>>>>>> master
   "dependencies": {
     "mobx": "*",
     "angular": "1.4",
-    "momentjs": "*"
-  }
+==============
+"dependencies": {
+  "mobx": "*",
+  "angular": "1.4",
+  "momentjs": "*"
+}
+>>>>>>>>>>>>> test-tuto-git
 }
